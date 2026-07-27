@@ -1,0 +1,134 @@
+/* General Page Styling */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+
+/* Header */
+
+header {
+    background-color: #1f2937;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+/* Navigation */
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+/* Main Content */
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+/* Home Page Hero */
+
+#hero {
+    background-color: white;
+    padding: 40px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+/* Page Introduction */
+
+.page-intro {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+
+/* Section Styling */
+
+.content-section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+
+/* Cards */
+
+.card {
+    background-color: #e5e7eb;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+
+/* Project Cards */
+
+.project-card {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    border-left: 5px solid #1f2937;
+}
+
+
+/* Career Steps */
+
+.career-step {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+
+/* Button */
+
+.button {
+    display: inline-block;
+    background-color: #1f2937;
+    color: white;
+    padding: 12px 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #374151;
+}
+
+
+/* Footer */
+
+footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
